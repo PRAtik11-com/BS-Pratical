@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.logoimage
+{
+    height: 50px;
+    width: 50px;
+}
+.logoimage img
+{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+.chess
+{
+    margin-top: -10px;
+    color: darkgrey;
+}
+span
+{
+    background-color: pink;
+}
+.pick
+{
+    color: blue;
+}
+.pro1
+{
+    background-color: lightskyblue;
+}
+.pro
+{
+    background-color: lightyellow;
+}
